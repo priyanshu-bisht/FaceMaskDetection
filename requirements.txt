@@ -1,0 +1,4 @@
+tensorflow == '2.3.0'(use specific version if you want to use pretrained models 01 & 099)
+numpy
+opencv-python
+matplotlib
