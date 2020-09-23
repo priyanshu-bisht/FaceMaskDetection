@@ -31,6 +31,6 @@
 
 - Method 2:  
 <code>Image Notebook:</code> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/priyanshu-bisht/FaceMaskDetection/blob/master/colab/image.ipynb)  
-<code>Video Notebook:</code> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/priyanshu-bisht/FaceMaskDetection/blob/master/colab/video.ipynb)
+<code>Model Notebook:</code> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/priyanshu-bisht/FaceMaskDetection/blob/master/colab/model.ipynb)
 
 #### __Made with ❤ by Priyanshu Bisht__
